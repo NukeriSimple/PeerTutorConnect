@@ -1,0 +1,7 @@
+db.url=jdbc:mysql://localhost:3306/peertutorconnect?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+db.user=ptc_app
+db.password=CHANGE_ME
+smtp.username=your-email@example.com
+smtp.password=CHANGE_ME
+upload.dir=
+subscription.payment.details=Bank: YOUR BANK\nAccount name: PeerTutorConnect\nAccount number: 0000000000\nReference: your full name
